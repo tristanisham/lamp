@@ -2,9 +2,9 @@
   "name": "lamp",
   "version": "0.0.1",
   "description": "Open source tools to empower individuals and create a more free internet",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "test": "electron ."
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
