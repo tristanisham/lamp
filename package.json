@@ -1,0 +1,28 @@
+{
+  "name": "lamp",
+  "version": "0.0.1",
+  "description": "Open source tools to empower individuals and create a more free internet",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tristanisham/lamp.git"
+  },
+  "keywords": [
+    "open",
+    "open source",
+    "source",
+    "free",
+    "freedom",
+    "freedom of speech",
+    "speech"
+  ],
+  "author": "Tristan Isham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tristanisham/lamp/issues"
+  },
+  "homepage": "https://github.com/tristanisham/lamp#readme"
+}
